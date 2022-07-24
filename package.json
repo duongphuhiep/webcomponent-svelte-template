@@ -1,14 +1,14 @@
 {
-  "name": "@wcd/duongphuhiep.svelte.counter",
+  "name": "duongphuhiep-svelte-counter",
   "version": "0.0.1",
-  "description": "",
-  "license": "ISC",
+  "description": "My personal Webcomponent sample to learn",
+  "license": "MIT",
   "type": "module",
   "homepage": "{{ homepage }}",
   "scripts": {
     "serve": "npx wcd-cli@latest serve 7RImAZUYmTFOE1kD1kp4 --open"
   },
   "dependencies": {
-    "lit-html": "^1"
+    "lit-html": "^2.2.7"
   }
 }
