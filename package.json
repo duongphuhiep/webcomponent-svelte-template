@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/duongphuhiep.svelte.counter",
+  "version": "0.0.1",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 7RImAZUYmTFOE1kD1kp4 --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
